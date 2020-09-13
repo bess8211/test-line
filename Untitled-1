@@ -1,0 +1,83 @@
+		{
+		    "type": "template",
+		    "altText": "代価テキスト",
+		    "template": {
+		        "type": "carousel",
+		        "imageAspectRatio": "rectangle",
+		        "imageSize": "cover",
+		        "columns": [
+		            {
+		                "thumbnailImageUrl": "https://symfo.web.fc2.com/sample_src/line/cover1.jpg",
+		                "imageBackgroundColor": "#FFFFFF",
+		                "title": "タイトル１",
+		                "text": "テキスト領域\n改行も可能です。",
+		                "defaultAction": {
+		                    "type": "message",
+		                    "label": "defaultAction",
+		                    "text": "defaultActionです"
+		                },
+		                "actions": [
+		                    {
+		                        "type": "message",
+		                        "label": "action1",
+		                        "text": "action1です"
+		                    },
+		                    {
+		                        "type": "message",
+		                        "label": "action2",
+		                        "text": "action2です"
+		                    },
+		                    {
+		                        "type": "message",
+		                        "label": "action3",
+		                        "text": "action3です"
+		                    }
+		                ]
+		            },
+		            {
+		                "thumbnailImageUrl": "https://symfo.web.fc2.com/sample_src/line/cover2.jpg",
+		                "title": "タイトル２",
+		                "text": "テキスト領域\n改行も可能です。",
+		                "actions": [
+		                    {
+		                        "type": "message",
+		                        "label": "action1",
+		                        "text": "action1です"
+		                    },
+		                    {
+		                        "type": "message",
+		                        "label": "action2",
+		                        "text": "action2です"
+		                    },
+		                    {
+		                        "type": "message",
+		                        "label": "action3",
+		                        "text": "action3です"
+		                    }
+		                ]
+		            },
+		            {
+		                "thumbnailImageUrl": "https://symfo.web.fc2.com/sample_src/line/cover3.jpg",
+		                "title": "タイトル３",
+		                "text": "テキスト領域\n改行も可能です。",
+		                "actions": [
+		                    {
+		                        "type": "message",
+		                        "label": "action1",
+		                        "text": "action1です"
+		                    },
+		                    {
+		                        "type": "message",
+		                        "label": "action2",
+		                        "text": "action2です"
+		                    },
+		                    {
+		                        "type": "message",
+		                        "label": "action3",
+		                        "text": "action3です"
+		                    }
+		                ]
+		            }
+		        ]
+		    }
+		}
